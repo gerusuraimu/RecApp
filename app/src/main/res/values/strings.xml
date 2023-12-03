@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RecApp</string>
+    <string name="button_text">Start Recording</string>
+</resources>
